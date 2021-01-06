@@ -1,2 +1,3 @@
 # Misc
-Random stuff
+Auto maze generation
+Tkinter
